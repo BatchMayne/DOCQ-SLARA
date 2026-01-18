@@ -1,0 +1,30 @@
+disk
+disk /r
+whouser
+rnf
+ctrl.apple
+akf ft5
+clr
+matrix xtool
+clone gh
+echo <text>
+inl mcore
+inl cmd
+cmd xtool
+opt wrok set
+set root
+del wrok set terminal akas -t -h -h --
+wrok set terminal akas
+wrok rchs
+wrok exit
+wrok terminal lkernel -t --
+jarvis
+echo0 actron
+echoo actron
+wrok vex-mechanics
+wrok set terminal docq.driver -- inl power-driver
+drre
+wrok set terminal akas -t driver -- power.driver
+server ash
+server ash /
+akf exit
