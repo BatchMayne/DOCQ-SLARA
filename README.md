@@ -39,6 +39,8 @@ lkernel - lkernel is the DOCQ itself, mostly used to Delete cache or Files
 
 
 
-docq.driver - Docq.driver is a function to access DOCQ's drivers, mostly used to install driver, manage driver, and delete driver (Deleting drivers will make DOCQ not work"
+docq.driver - Docq.driver is a function to access DOCQ's drivers, mostly used to install driver, manage driver, and delete driver (Deleting drivers will make DOCQ not work)
+
+
 
 
